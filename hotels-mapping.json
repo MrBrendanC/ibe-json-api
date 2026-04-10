@@ -1,0 +1,32 @@
+{
+  "16300": {
+    "name": "The Capital Pearls",
+    "description": "Luxury hotel description here",
+    "address": "Address here",
+    "city": "City name",
+    "photos": [
+      "https://example.com/hotels/pearls/main.jpg",
+      "https://example.com/hotels/pearls/lobby.jpg",
+      "https://example.com/hotels/pearls/pool.jpg"
+    ],
+    "amenities": ["WiFi", "Pool", "Spa", "Gym"],
+    "star_rating": 5,
+    "phone": "+27 123 456 789",
+    "email": "info@capitalpearls.com"
+  },
+  "16305": {
+    "name": "The Capital Zimbali",
+    "description": "Beachfront luxury resort description",
+    "address": "Address here",
+    "city": "City name",
+    "photos": [
+      "https://example.com/hotels/zimbali/main.jpg",
+      "https://example.com/hotels/zimbali/beach.jpg",
+      "https://example.com/hotels/zimbali/room.jpg"
+    ],
+    "amenities": ["WiFi", "Beach Access", "Pool", "Restaurant", "Spa"],
+    "star_rating": 5,
+    "phone": "+27 123 456 790",
+    "email": "info@capitalzimbali.com"
+  }
+}

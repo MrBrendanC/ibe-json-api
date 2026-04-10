@@ -1,0 +1,152 @@
+{
+  "96747100": {
+    "site_id": "16305",
+    "name": "Garden View Room",
+    "description": "Comfortable room with garden views",
+    "max_occupancy": 2,
+    "bed_type": "King or Twin",
+    "size_sqm": 35,
+    "photos": [
+      "https://example.com/rooms/zimbali/garden-view-1.jpg",
+      "https://example.com/rooms/zimbali/garden-view-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi"]
+  },
+  "96747104": {
+    "site_id": "16305",
+    "name": "Deluxe Room",
+    "description": "Spacious room with modern amenities",
+    "max_occupancy": 2,
+    "bed_type": "King",
+    "size_sqm": 40,
+    "photos": [
+      "https://example.com/rooms/zimbali/deluxe-1.jpg",
+      "https://example.com/rooms/zimbali/deluxe-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony"]
+  },
+  "96765162": {
+    "site_id": "16305",
+    "name": "Superior Room",
+    "description": "Enhanced room with premium amenities",
+    "max_occupancy": 2,
+    "bed_type": "King",
+    "size_sqm": 42,
+    "photos": [
+      "https://example.com/rooms/zimbali/superior-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Sea View"]
+  },
+  "96747106": {
+    "site_id": "16305",
+    "name": "Executive Suite",
+    "description": "Luxurious suite with separate living area",
+    "max_occupancy": 3,
+    "bed_type": "King + Sofa Bed",
+    "size_sqm": 60,
+    "photos": [
+      "https://example.com/rooms/zimbali/executive-1.jpg",
+      "https://example.com/rooms/zimbali/executive-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Living Area"]
+  },
+  "96747120": {
+    "site_id": "16305",
+    "name": "Ocean View Room",
+    "description": "Stunning ocean views",
+    "max_occupancy": 2,
+    "bed_type": "King",
+    "size_sqm": 38,
+    "photos": [
+      "https://example.com/rooms/zimbali/ocean-view-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Ocean View"]
+  },
+  "96747128": {
+    "site_id": "16305",
+    "name": "Family Suite",
+    "description": "Perfect for families",
+    "max_occupancy": 4,
+    "bed_type": "King + 2 Singles",
+    "size_sqm": 70,
+    "photos": [
+      "https://example.com/rooms/zimbali/family-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Connecting Rooms"]
+  },
+  "96747132": {
+    "site_id": "16305",
+    "name": "Premium Suite",
+    "description": "Premium accommodations with luxury finishes",
+    "max_occupancy": 3,
+    "bed_type": "King + Sofa Bed",
+    "size_sqm": 65,
+    "photos": [
+      "https://example.com/rooms/zimbali/premium-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Living Area", "Ocean View"]
+  },
+  "96747122": {
+    "site_id": "16305",
+    "name": "Luxury Suite",
+    "description": "Top-tier luxury suite",
+    "max_occupancy": 3,
+    "bed_type": "King + Sofa Bed",
+    "size_sqm": 80,
+    "photos": [
+      "https://example.com/rooms/zimbali/luxury-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Living Area", "Ocean View", "Jacuzzi"]
+  },
+  "97878148": {
+    "site_id": "16305",
+    "name": "Presidential Suite",
+    "description": "Ultimate luxury experience",
+    "max_occupancy": 4,
+    "bed_type": "King + Queen",
+    "size_sqm": 120,
+    "photos": [
+      "https://example.com/rooms/zimbali/presidential-1.jpg",
+      "https://example.com/rooms/zimbali/presidential-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Living Area", "Ocean View", "Jacuzzi", "Private Pool"]
+  },
+  "96747139": {
+    "site_id": "16305",
+    "name": "Honeymoon Suite",
+    "description": "Romantic suite for couples",
+    "max_occupancy": 2,
+    "bed_type": "King",
+    "size_sqm": 90,
+    "photos": [
+      "https://example.com/rooms/zimbali/honeymoon-1.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Balcony", "Ocean View", "Jacuzzi", "Champagne on Arrival"]
+  },
+  "96747142": {
+    "site_id": "16305",
+    "name": "Penthouse Villa",
+    "description": "Exclusive penthouse accommodation",
+    "max_occupancy": 6,
+    "bed_type": "2 Kings + 2 Singles",
+    "size_sqm": 200,
+    "photos": [
+      "https://example.com/rooms/zimbali/penthouse-1.jpg",
+      "https://example.com/rooms/zimbali/penthouse-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Multiple Balconies", "Ocean View", "Private Pool", "Butler Service"]
+  },
+  "96747144": {
+    "site_id": "16305",
+    "name": "Royal Villa",
+    "description": "The ultimate in luxury villa accommodation",
+    "max_occupancy": 8,
+    "bed_type": "3 Kings + 2 Singles",
+    "size_sqm": 250,
+    "photos": [
+      "https://example.com/rooms/zimbali/royal-1.jpg",
+      "https://example.com/rooms/zimbali/royal-2.jpg"
+    ],
+    "amenities": ["Air Conditioning", "Minibar", "Safe", "WiFi", "Multiple Balconies", "Ocean View", "Private Pool", "Butler Service", "Private Chef"]
+  }
+}
